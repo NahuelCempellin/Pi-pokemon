@@ -1,0 +1,14 @@
+export const POKE_URL='http://localhost:3001/pokemon';
+export const GET_POKE='GET_POKE';
+export const POKE_ID='http://localhost:3001/pokemon/';
+export const GET_POKE_ID='GET_POKE_ID';
+export const POKE_NAME='http://localhost:3001/pokemon?name=';
+export const GET_POKE_NAME='GET_POKE_NAME';
+export const SEARCH_NAME='SEARCH_NAME';
+export const POKE_POST='http://localhost:3001/postPoke';
+export const NEW_POKE='NEW_POKE';
+export const NOT_FOUND='https://i.gifer.com/origin/c1/c188f43bb256061a4f624592528e09ea.gif';
+export const POKE_TYPES='http://localhost:3001/types';
+export const GET_TYPES= 'GET_TYPES';
+export const GET_CREATED='GET_CREATED';
+export const FILTER_TYPE='FILTER_TYPE';
